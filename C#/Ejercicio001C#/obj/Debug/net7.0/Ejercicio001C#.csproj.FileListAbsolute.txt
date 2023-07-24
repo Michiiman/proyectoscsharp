@@ -1,0 +1,15 @@
+/home/arteN01-053/Documents/Codigos Campus/C#/Ejercicio001C#/bin/Debug/net7.0/Ejercicio001C#
+/home/arteN01-053/Documents/Codigos Campus/C#/Ejercicio001C#/bin/Debug/net7.0/Ejercicio001C#.deps.json
+/home/arteN01-053/Documents/Codigos Campus/C#/Ejercicio001C#/bin/Debug/net7.0/Ejercicio001C#.runtimeconfig.json
+/home/arteN01-053/Documents/Codigos Campus/C#/Ejercicio001C#/bin/Debug/net7.0/Ejercicio001C#.dll
+/home/arteN01-053/Documents/Codigos Campus/C#/Ejercicio001C#/bin/Debug/net7.0/Ejercicio001C#.pdb
+/home/arteN01-053/Documents/Codigos Campus/C#/Ejercicio001C#/obj/Debug/net7.0/Ejercicio001C#.csproj.AssemblyReference.cache
+/home/arteN01-053/Documents/Codigos Campus/C#/Ejercicio001C#/obj/Debug/net7.0/Ejercicio001C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-053/Documents/Codigos Campus/C#/Ejercicio001C#/obj/Debug/net7.0/Ejercicio001C#.AssemblyInfoInputs.cache
+/home/arteN01-053/Documents/Codigos Campus/C#/Ejercicio001C#/obj/Debug/net7.0/Ejercicio001C#.AssemblyInfo.cs
+/home/arteN01-053/Documents/Codigos Campus/C#/Ejercicio001C#/obj/Debug/net7.0/Ejercicio001C#.csproj.CoreCompileInputs.cache
+/home/arteN01-053/Documents/Codigos Campus/C#/Ejercicio001C#/obj/Debug/net7.0/Ejercicio001C#.dll
+/home/arteN01-053/Documents/Codigos Campus/C#/Ejercicio001C#/obj/Debug/net7.0/refint/Ejercicio001C#.dll
+/home/arteN01-053/Documents/Codigos Campus/C#/Ejercicio001C#/obj/Debug/net7.0/Ejercicio001C#.pdb
+/home/arteN01-053/Documents/Codigos Campus/C#/Ejercicio001C#/obj/Debug/net7.0/Ejercicio001C#.genruntimeconfig.cache
+/home/arteN01-053/Documents/Codigos Campus/C#/Ejercicio001C#/obj/Debug/net7.0/ref/Ejercicio001C#.dll
